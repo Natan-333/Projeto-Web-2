@@ -1,0 +1,21 @@
+    <h1>Jornal da FIAP</h1>
+
+    <div id="titForm1">
+    <h2 id="subtitulo">Tecnologia</h2>
+    <p class="p1">Lorem ipsum dolor sit amet</p>
+    <p class="p1">Lorem ipsum dolor sit amet</p>
+    <p class="p1">Lorem ipsum dolor sit amet</p></div>
+
+    </div id="esportes">
+    <h2>Esportes</h2>
+    <p>Lorem ipsum dolor sit amet</p>
+    <p>Lorem ipsum dolor sit amet</p>
+    <p>Lorem ipsum dolor sit amet</p></div>
+
+    </div id="titForm3">
+    <h2>Negócios</h2>
+    <p>Lorem ipsum dolor sit amet</p>
+    <p>Lorem ipsum dolor sit amet</p>
+    <p>Lorem ipsum dolor sit amet</p></div>
+</body>
+</html>
