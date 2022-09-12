@@ -11,13 +11,13 @@
     color: #000000;
   }
   
-  #sports {
+  #esporte {
     background-color: #0ea540;
     padding: 15px;
     height: 31.5vh;
   }
   
-  #sports>h2 {
+  #esporte>h2 {
     color: #21e40f;
     font-family: Arial, sans-serif;
     font-weight: 700;
@@ -25,7 +25,7 @@
     line-height: 30px;
   }
   
-  #sports>p{
+  #esporte>p{
     color: #633BBC;
     font-family: Verdana, sans-serifs;
     font-weight: 500;
@@ -33,13 +33,13 @@
     line-height: 15px;
   }
   
-  #business {
+  #negocio {
     background-color: #ff000088;
     padding: 15px;
     height: 31.5vh;
   }
   
-  #business>h2 {
+  #negocio>h2 {
     color: #EA1616;
     font-family: Arial, sans-serif;
     font-weight: 700;
@@ -47,7 +47,7 @@
     line-height: 30px;
   }
   
-  #business>p{
+  #negocio>p{
     color: #ffffff;
     font-family: Verdana, sans-serifs;
     font-weight: 500;
